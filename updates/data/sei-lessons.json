@@ -1,0 +1,284 @@
+{
+  "lessons":[
+    {
+      "name":"unix-cli",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/unix-cli",
+      "unit": 1
+    },
+    {
+      "name":"git",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/git",
+      "unit": 1
+    },
+    {
+      "name":"git-github",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/git-github",
+      "unit": 1
+    },
+    {
+      "name":"js",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/js",
+      "unit": 1
+    },
+    {
+      "name":"js-reference-types",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/js-reference-types",
+      "unit": 1
+    },
+    {
+      "name":"js-objects-this",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/js-objects-this",
+      "unit": 1
+    },
+    {
+      "name":"js-objects-constructors-prototypes",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/js-objects-constructors-prototypes",
+      "unit": 1
+    },
+    {
+      "name":"html-css",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/html-css",
+      "unit": 1
+    },
+    {
+      "name":"js-functions",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/js-functions",
+      "unit": 1
+    },
+    {
+      "name":"html-css-layout",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/html-css-layout",
+      "unit": 1
+    },
+    {
+      "name":"js-array-iteration-methods",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/js-array-iteration-methods",
+      "unit": 1
+    },
+    {
+      "name":"jquery-dom",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/jquery-dom",
+      "unit": 1
+    },
+    {
+      "name":"http-json-discussion",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/http-json-discussion",
+      "unit": 1
+    },
+    {
+      "name":"jquery-ajax-crud",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-crud",
+      "unit": 1
+    },
+    {
+      "name":"jquery-ajax-token-auth",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-token-auth",
+      "unit": 1
+    },
+    {
+      "name":"html-css-sass",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/html-css-sass",
+      "unit": 1
+    },
+    {
+      "name":"html-css-bootstrap-layout",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/html-css-bootstrap-layout",
+      "unit": 1
+    },
+    {
+      "name":"game-project-scope-discussion",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/game-project-scope-discussion",
+      "unit": 1
+    },
+    {
+      "name":"ruby",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/ruby",
+      "unit": 2
+    },
+    {
+      "name":"ruby-array",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/ruby-array",
+      "unit": 2
+    },
+    {
+      "name":"ruby-hash",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/ruby-hash",
+      "unit": 2
+    },
+    {
+      "name":"ruby-array-methods",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/ruby-array-methods",
+      "unit": 2
+    },
+    {
+      "name":"ruby-object-model",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/ruby-object-model",
+      "unit": 2
+    },
+    {
+      "name":"ruby-object-class-methods",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/ruby-object-class-methods",
+      "unit": 2
+    },
+    {
+      "name":"ruby-enumerable-comparable",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/ruby-enumerable-comparable",
+      "unit": 2
+    },
+    {
+      "name":"sql",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/sql",
+      "unit": 2
+    },
+    {
+      "name":"rails-api",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/rails-api",
+      "unit": 2
+    },
+    {
+      "name":"rails-api-single-resource",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/rails-api-single-resource",
+      "unit": 2
+    },
+    {
+      "name":"rails-api-one-to-many",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/rails-api-one-to-many",
+      "unit": 2
+    },
+    {
+      "name":"code-retreat",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/code-retreat",
+      "unit": 2
+    },
+    {
+      "name":"rails-api-many-to-many",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/rails-api-many-to-many",
+      "unit": 2
+    },
+    {
+      "name":"rails-api-bdd",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/rails-api-bdd",
+      "unit": 2
+    },
+    {
+      "name":"handlebars",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/handlebars",
+      "unit": 2
+    },
+    {
+      "name":"full-stack-project-modeling-lab",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/full-stack-project-modeling-lab",
+      "unit": 2
+    },
+    {
+      "name":"git-workflow-teams",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/git-workflow-teams",
+      "unit": 2
+    },
+    {
+      "name":"js-function-context-this",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/js-function-context-this",
+      "unit": 3
+    },
+    {
+      "name":"node-api",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/node-api",
+      "unit": 3
+    },
+    {
+      "name":"sql-nosql-discussion",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/sql-nosql-discussion",
+      "unit": 3
+    },
+    {
+      "name":"node-api-promises",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/node-api-promises",
+      "unit": 3
+    },
+    {
+      "name":"mongodb",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/mongodb",
+      "unit": 3
+    },
+    {
+      "name":"mongoose",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/mongoose",
+      "unit": 3
+    },
+    {
+      "name":"express-api",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/express-api",
+      "unit": 3
+    },
+    {
+      "name":"express-api",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/express-api",
+      "unit": 3
+    },
+    {
+      "name":"express-multer",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/express-multer-upload-api",
+      "unit": 3
+    },
+    {
+      "name":"express-multer",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/express-multer-upload-api",
+      "unit": 3
+    },
+    {
+      "name":"scrum",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/scrum",
+      "unit": 3
+    },
+    {
+      "name":"cs",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/cs",
+      "unit": 4
+    },
+    {
+      "name":"cs-algorithms",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/cs-algorithms",
+      "unit": 4
+    },
+    {
+      "name":"cs-data-structures",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/cs-data-structures",
+      "unit": 4
+    },
+    {
+      "name":"interview-discussion",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/interview-discussion",
+      "unit": 4
+    },
+    {
+      "name":"react",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/react",
+      "unit": 4
+    },
+    {
+      "name":"react-components-props",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/react-components-and-props",
+      "unit": 4
+    },
+    {
+      "name":"react-components-state",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/react-components-state",
+      "unit": 4
+    },
+    {
+      "name":"react-router",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/react-router",
+      "unit": 4
+    },
+    {
+      "name":"react-crud",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/react-crud",
+      "unit": 4
+    },
+    {
+      "name":"react-auth-template",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/react-auth-template",
+      "unit": 4
+    }
+  ]
+}
