@@ -7,6 +7,8 @@ const { Types } = keystone.Field
 const Material = new keystone.List('Material', {
   label: 'Material',
   sortable: true,
+  defaultSort: 'unit',
+  track: true,
   autokey: {
     path: 'key',
     from: 'name',
@@ -27,6 +29,12 @@ Material.add({
     type: String,
     required: true,
     initial: true
+  },
+  type: {
+    type: String,
+    required: true,
+    initial: true,
+    enum: ['Diagnostic', 'Lesson', 'Homework']
   },
   unit: {
     type: Types.Number,
@@ -53,5 +61,5 @@ Material.schema.post('save', function (next) {
 /**
  * Model Registration
  */
-Material.defaultColumns = 'name, unit'
+Material.defaultColumns = 'name, unit, type, url'
 Material.register()
