@@ -1,0 +1,309 @@
+{
+  "homework": [
+    {
+      "name": "unix-cli-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/unix-cli-study",
+      "unit": 1
+    },
+    {
+      "name": "git-practice",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/git-practice",
+      "unit": 1
+    },
+    {
+      "name": "js-practice",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/js-practice",
+      "unit": 1
+    },
+    {
+      "name": "js-reference-types-practice",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/js-reference-types-practice",
+      "unit": 1
+    },
+    {
+      "name": "js-this-prototype-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/js-this-prototype-study",
+      "unit": 1
+    },
+    {
+      "name": "html-css-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/html-css-study",
+      "unit": 1
+    },
+    {
+      "name": "js-functions-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/js-Functions-study",
+      "unit": 1
+    },
+    {
+      "name": "html-css-layout-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/html-css-layout-study",
+      "unit": 1
+    },
+    {
+      "name": "project-planning-wireframes-practice",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes-practice",
+      "unit": 1
+    },
+    {
+      "name": "jquery-dom-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/jquery-dom-study",
+      "unit": 1
+    },
+    {
+      "name": "json-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/json-study",
+      "unit": 1
+    },
+    {
+      "name": "http-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/http-study",
+      "unit": 1
+    },
+    {
+      "name": "js-async-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/js-async-study",
+      "unit": 1
+    },
+    {
+      "name": "library-api-guide",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/library-api-guide",
+      "unit": 1
+    },
+    {
+      "name": "spa-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/spa-study",
+      "unit": 1
+    },
+    {
+      "name": "js-boggle-challenge",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/js-boggle-challenge",
+      "unit": 1
+    },
+    {
+      "name": "game-project-scope-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/game-project-scope-study",
+      "unit": 1
+    },
+    {
+      "name": "gh-pages-deployment-guide",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/gh-pages-deployment-guide",
+      "unit": 1
+    },
+    {
+      "name": "css-layout-challenge",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/css-layout-challenge",
+      "unit": 1
+    },
+    {
+      "name": "ruby-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/ruby-study",
+      "unit": 2
+    },
+    {
+      "name": "ruby-vs-js-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/ruby-vs-js-study",
+      "unit": 2
+    },
+    {
+      "name": "ruby-vs-js-arrays-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/ruby-vs-js-arrays-study",
+      "unit": 2
+    },
+    {
+      "name": "ruby-vs-js-hash-dictionary-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/ruby-vs-js-hash-dictionary-study",
+      "unit": 2
+    },
+    {
+      "name": "ruby-vs-js-objects-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/ruby-vs-js-objects-study",
+      "unit": 2
+    },
+    {
+      "name": "ruby-gem-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/ruby-gem-study",
+      "unit": 2
+    },
+    {
+      "name": "ruby-enumerable-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/ruby-enumerable-study",
+      "unit": 2
+    },
+    {
+      "name": "rails-activerecord-crud-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/rails-activerecord-crud-study",
+      "unit": 2
+    },
+    {
+      "name": "sql-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/sql-study",
+      "unit": 2
+    },
+    {
+      "name": "ruby-objects-practice",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/ruby-objects-practice",
+      "unit": 2
+    },
+    {
+      "name": "rails-api-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/rails-api-study",
+      "unit": 2
+    },
+    {
+      "name": "rails-migrations-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/rails-migrations-study",
+      "unit": 2
+    },
+    {
+      "name": "rest-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/rest-study",
+      "unit": 2
+    },
+    {
+      "name": "ruby-solid-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/ruby-solid-study",
+      "unit": 2
+    },
+    {
+      "name": "rails-heroku-setup-guide",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/rails-heroku-setup-guide",
+      "unit": 2
+    },
+    {
+      "name": "bdd-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/bdd-study",
+      "unit": 2
+    },
+    {
+      "name": "full-stack-project-practice",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/full-stack-project-practice",
+      "unit": 2
+    },
+    {
+      "name": "ruby-fibonacci-challenge",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/ruby-fibonacci-challenge",
+      "unit": 2
+    },
+    {
+      "name": "sql-nosql-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/sql-nosql-study",
+      "unit": 3
+    },
+    {
+      "name": "self-learning-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/self-learning-study",
+      "unit": 3
+    },
+    {
+      "name": "mongodb-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/mongodb-study",
+      "unit": 3
+    },
+    {
+      "name": "js-modules-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/js-modules-study",
+      "unit": 3
+    },
+    {
+      "name": "node-npm-practice",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/node-npm-practice",
+      "unit": 3
+    },
+    {
+      "name": "aws-s3-setup-guide",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/aws-s3-setup-guide",
+      "unit": 3
+    },
+    {
+      "name": "express-api-deployment-guide",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/express-api-deployment-guide",
+      "unit": 3
+    },
+    {
+      "name": "cipher-challenge",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/cipher-challenge",
+      "unit": 3
+    },
+    {
+      "name": "intro-to-cs-myGA",
+      "url": "https://my.generalassemb.ly/activities/513",
+      "unit": 4
+    },
+    {
+      "name": "big-o-notation-myGA",
+      "url": "https://my.generalassemb.ly/activities/511",
+      "unit": 4
+    },
+    {
+      "name": "intro-to-algorithms-myGA",
+      "url": "https://my.generalassemb.ly/activities/780",
+      "unit": 4
+    },
+    {
+      "name": "intro-to-sorting-myGA",
+      "url": "https://my.generalassemb.ly/activities/818",
+      "unit": 4
+    },
+    {
+      "name": "recursion-myGA",
+      "url": "https://my.generalassemb.ly/activities/773",
+      "unit": 4
+    },
+    {
+      "name": "intro-to-data-structures-myGA",
+      "url": "https://my.generalassemb.ly/activities/878",
+      "unit": 4
+    },
+    {
+      "name": "linked-lists-myGA",
+      "url": "https://my.generalassemb.ly/activities/397",
+      "unit": 4
+    },
+    {
+      "name": "binary-trees-and-tries-myGA",
+      "url": "https://my.generalassemb.ly/activities/8",
+      "unit": 4
+    },
+    {
+      "name": "basic-sorting-algorithms-myGA",
+      "url": "https://my.generalassemb.ly/activities/778",
+      "unit": 4
+    },
+    {
+      "name": "divide-and-conquer-sorting-algorithms-myGA",
+      "url": "https://my.generalassemb.ly/activities/882",
+      "unit": 4
+    },
+    {
+      "name": "search-algorithms-myGA",
+      "url": "https://my.generalassemb.ly/activities/633",
+      "unit": 4
+    },
+    {
+      "name": "intro-to-hash-tables-myGA",
+      "url": "https://my.generalassemb.ly/activities/512",
+      "unit": 4
+    },
+    {
+      "name": "design-patterns-myGA",
+      "url": "https://my.generalassemb.ly/activities/134",
+      "unit": 4
+    },
+    {
+      "name": "react-components-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/react-components-study",
+      "unit": 4
+    },
+    {
+      "name": "react-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/react-study",
+      "unit": 4
+    },
+    {
+      "name": "web-accessibility-study",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/web-accessibility-study",
+      "unit": 4
+    }
+  ]
+}

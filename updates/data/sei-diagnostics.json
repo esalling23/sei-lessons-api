@@ -1,0 +1,144 @@
+{
+  "diagnostics": [
+    {
+      "name": "unix-cli-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/unix-cli-diagnostic",
+      "unit": 1
+    },
+    {
+      "name": "git-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/git-diagnostic",
+      "unit": 1
+    },
+    {
+      "name": "js-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/js-diagnostic",
+      "unit": 1
+    },
+    {
+      "name": "js-reference-types-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/js-reference-types-diagnostic",
+      "unit": 1
+    },
+    {
+      "name": "js-objects-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/js-objects-diagnostic",
+      "unit": 1
+    },
+    {
+      "name": "js-functions-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/js-functions-diagnostic",
+      "unit": 1
+    },
+    {
+      "name": "html-css-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/html-css-diagnostic",
+      "unit": 1
+    },
+    {
+      "name": "js-array-iteration-methods-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/js-array-iteration-methods-diagnostic",
+      "unit": 1
+    },
+    {
+      "name": "jquery-dom-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/jquery-dom-diagnostic",
+      "unit": 1
+    },
+    {
+      "name": "jquery-ajax-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-diagnostic",
+      "unit": 1
+    },
+    {
+      "name": "html-css-sass-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/html-css-sass-diagnostic",
+      "unit": 1
+    },
+    {
+      "name": "js-euler-palindrome-challenge",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/js-euler-palindrome-challenge",
+      "unit": 1
+    },
+    {
+      "name": "ruby-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/ruby-diagnostic",
+      "unit": 2
+    },
+    {
+      "name": "ruby-calculator-challenge",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/ruby-calculator-challenge",
+      "unit": 2
+    },
+    {
+      "name": "ruby-objects-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/ruby-objects-diagnostic",
+      "unit": 2
+    },
+    {
+      "name": "ruby-enumerable-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/ruby-enumerable-diagnostic",
+      "unit": 2
+    },
+    {
+      "name": "sql-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/sql-diagnostic",
+      "unit": 2
+    },
+    {
+      "name": "rails-api-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/rails-api-diagnostic",
+      "unit": 2
+    },
+    {
+      "name": "rails-api-single-resource-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/rails-api-single-resource-diagnostic",
+      "unit": 2
+    },
+    {
+      "name": "ruby-fibonacci-challenge",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/ruby-fibonacci-challenge",
+      "unit": 2
+    },
+    {
+      "name": "rails-api-relationships-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/rails-api-relationships-diagnostic",
+      "unit": 2
+    },
+    {
+      "name": "js-function-context-this-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/js-function-context-this-diagnostic",
+      "unit": 3
+    },
+    {
+      "name": "node-api-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/node-api-diagnostic",
+      "unit": 3
+    },
+    {
+      "name": "mongodb-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/mongodb-diagnostic",
+      "unit": 3
+    },
+    {
+      "name": "mongoose-diagnostic",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/mongoose-diagnostic",
+      "unit": 3
+    },
+    {
+      "name": "ruby-morse-code-challenge",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/ruby-morse-code-challenge",
+      "unit": 4
+    },
+    {
+      "name": "roman-numerals-challenge",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/roman-numerals-challenge",
+      "unit": 4
+    },
+    {
+      "name": "js-binary-search-challenge",
+      "url": "https://git.generalassemb.ly/ga-wdi-boston/js-binary-search-challenge",
+      "unit": 4
+    }
+  ]
+}

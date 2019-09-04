@@ -276,6 +276,11 @@
       "unit": 4
     },
     {
+      "name":"react-hooks",
+      "url":"https://git.generalassemb.ly/ga-wdi-boston/react-hooks",
+      "unit": 4
+    },
+    {
       "name":"react-auth-template",
       "url":"https://git.generalassemb.ly/ga-wdi-boston/react-auth-template",
       "unit": 4
